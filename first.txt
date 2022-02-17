@@ -1,1 +1,8 @@
 My First file
+
+
+int main 
+{
+initialize
+}
+return
