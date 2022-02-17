@@ -1,1 +1,10 @@
 My First file
+
+my second code
+
+void main{
+int sum=0,a,b;
+cin>>a>>b;
+sum=a+b;
+cout<<sum;
+}
